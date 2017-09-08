@@ -1,1 +1,42 @@
-hey
+header {
+	font-size: 70px;
+	text-align: center;
+	background-color: red;
+}
+body {
+	text-align: center;
+	background-color: #00ffff;
+}
+footer {
+	background-color: #00ffff;
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 30px;
+}
+h5 {
+	font-size: 40px;
+}
+h3 {
+	font-size: 50px;
+}
+h4 {
+	font-size: 30px; 
+}
+li {
+	display: inline;
+	margin-right: 150px;
+	text-align: center;
+}
+footer {
+	padding: 10px 10px 10px 10px;
+}
+nav {
+	background-color: #fff;
+	font-size: 18px;
+}
+img {
+	width: 50%;
+}
